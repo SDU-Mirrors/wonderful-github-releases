@@ -2,7 +2,6 @@ repos:
   - texstudio-org/texstudio # LaTeX 的前端书写工具
   - ventoy/Ventoy # 多系统启动 U 盘解决方案
   - YerongAI/Office-Tool # 可帮助校园、企业客户批量部署 MS Office 的工具
-  - qbittorrent/qBittorrent # BitTorrent 下载工具
   - rizonesoft/Notepad3 # 文本编辑工具
   - obsproject/obs-studio # 录屏、直播工具
   - pbatard/rufus # 可启动 U 盘镜像写入工具
