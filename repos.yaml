@@ -9,4 +9,5 @@ repos:
   - git-for-windows/git # Windows 端的 git 命令行
   - dbeaver/dbeaver # 数据库前端工具
   - agalwood/Motrix # 下载工具
+  - aria2/aria2 # 命令行多线程下载工具
   
