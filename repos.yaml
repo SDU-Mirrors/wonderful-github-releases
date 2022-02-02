@@ -6,3 +6,6 @@ repos:
   - obsproject/obs-studio # 录屏、直播工具
   - pbatard/rufus # 可启动 U 盘镜像写入工具
   - VSCodium/vscodium # VSCode 软件并非完全开源，此为开源替代品
+  - git-for-windows/git # Windows 端的 git 命令行
+  - dbeaver/dbeaver # 数据库前端工具
+  
