@@ -8,6 +8,6 @@ repos:
   - VSCodium/vscodium # VSCode 的一个“自由”许可证的发行版
   - git-for-windows/git # Windows 端的 git 命令行
   - dbeaver/dbeaver # 数据库前端工具
-  - agalwood/Motrix # 下载工具
+  - agalwood/Motrix # 基于 aria2 的下载工具
   - aria2/aria2 # 命令行多线程下载工具
   
