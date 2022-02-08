@@ -12,3 +12,4 @@ repos:
   - aria2/aria2 # 命令行多线程下载工具
   - rime/weasel # 中州韻輸入法引擎 - 小狼毫（Windows）
   - rime/squirrel # 中州韻輸入法引擎 - 鼠鬚管（macOS）
+  - mcmilk/7-Zip-zstd # 非官方 7-zip，增加了几种压缩算法的支持
