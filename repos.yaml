@@ -15,4 +15,4 @@ repos:
   - mcmilk/7-Zip-zstd # 非官方 7-Zip，增加了几种压缩算法的支持
   - M2Team/NanaZip # 非官方 7-Zip，商店应用，增加了 Win11 右键菜单支持
   - zufuliu/notepad2 # 文本编辑工具 Notepad2 的 fork 的 fork
-  - microsoft/powertoys # 增强 Windows 生产力的小工具
+  - microsoft/PowerToys # 增强 Windows 生产力的小工具
