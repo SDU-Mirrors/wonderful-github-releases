@@ -17,3 +17,5 @@ repos:
   - zufuliu/notepad2 # 文本编辑工具 Notepad2 的 fork 的 fork
   - microsoft/PowerToys # 增强 Windows 生产力的小工具
   - marktext/marktext # Markdown 编辑器
+  # 以下为山大相关仓库
+  - SadPencil/sdunetd # 山大校园网登录守护程序，可部署在电脑和路由器
