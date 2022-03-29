@@ -16,6 +16,7 @@ repos:
   - M2Team/NanaZip # 非官方 7-Zip，商店应用，增加了 Win11 右键菜单支持
   - zufuliu/notepad2 # 文本编辑工具 Notepad2 的 fork 的 fork
   - microsoft/PowerToys # 增强 Windows 生产力的小工具
+  - PowerShell/PowerShell
   - marktext/marktext # Markdown 编辑器
   - Molunerfinn/PicGo # 图床上传工具
   # 以下为山大相关仓库
