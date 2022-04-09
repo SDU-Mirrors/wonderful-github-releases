@@ -20,5 +20,6 @@ repos:
   - marktext/marktext # Markdown 编辑器
   - Molunerfinn/PicGo # 图床上传工具
   - caddyserver/caddy # HTTP 服务器
+  - henrypp/memreduct # 针对 Windows 的内存清理工具
   # 以下为山大相关仓库
   - SadPencil/sdunetd # 山大校园网登录守护程序，可部署在电脑和路由器
