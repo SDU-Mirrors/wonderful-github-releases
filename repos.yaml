@@ -22,5 +22,6 @@ repos:
   - caddyserver/caddy # HTTP 服务器
   - henrypp/memreduct # 针对 Windows 的内存清理工具
   - raspberrypi/rpi-eeprom # 树莓派 4 的 bootloader 固件
+  - DDoSolitary/LxRunOffline # 从自定义 rootfs 手动安装 WSL 的工具
   # 以下为山大相关仓库
   - SadPencil/sdunetd # 山大校园网登录守护程序，可部署在电脑和路由器
