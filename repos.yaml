@@ -24,5 +24,6 @@ repos:
   - raspberrypi/rpi-eeprom # 树莓派 4 的 bootloader 固件
   - DDoSolitary/LxRunOffline # 从自定义 rootfs 手动安装 WSL 的工具
   - ethereum/solidity # 以太坊 Solidity 智能合约编译器
+  - BluePointLilac/ContextMenuManager # Windows 右键菜单管理小工具
   # 以下为山大相关仓库
   - SadPencil/sdunetd # 山大校园网登录守护程序，可部署在电脑和路由器
