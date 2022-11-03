@@ -24,7 +24,7 @@ repos:
   - raspberrypi/rpi-eeprom # 树莓派 4 的 bootloader 固件
   - DDoSolitary/LxRunOffline # 从自定义 rootfs 手动安装 WSL 的工具
   - ethereum/solidity # 以太坊 Solidity 智能合约编译器
-  - ethereum/remix-desktop # 以太坊 Solidity IDE
+  - ethereum/remix-project # 以太坊 Solidity IDE
   - BluePointLilac/ContextMenuManager # Windows 右键菜单管理小工具
   - ShareX/ShareX # 截图工具
   - rustdesk/rustdesk # 远程控制软件
