@@ -30,5 +30,6 @@ repos:
   - rustdesk/rustdesk # 远程控制软件
   # - musescore/MuseScore # 音乐制谱软件
   - jgraph/drawio-desktop # draw.io 绘图软件
+  - svenstaro/miniserve # 快速部署的 HTTP 文件服务器
   # 以下为山大相关仓库
   - SadPencil/sdunetd # 山大校园网登录守护程序，可部署在电脑和路由器
