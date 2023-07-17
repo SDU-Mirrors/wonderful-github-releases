@@ -35,5 +35,6 @@ repos:
   - espressif/arduino-esp32 # ESP32 的 Arduino IDE 支持
   - FreeCAD/FreeCAD
   - niXman/mingw-builds-binaries # 第三方 MinGW-w64 构建
+  - CloverHackyColor/CloverBootloader # Clover
   # 以下为山大相关仓库
   - SadPencil/sdunetd # 山大校园网登录守护程序，可部署在电脑和路由器
