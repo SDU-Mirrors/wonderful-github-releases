@@ -21,7 +21,7 @@ repos:
   - Molunerfinn/PicGo # 图床上传工具
   - caddyserver/caddy # HTTP 服务器
   - henrypp/memreduct # 针对 Windows 的内存清理工具
-  - raspberrypi/rpi-eeprom # 树莓派 4 的 bootloader 固件
+  - raspberrypi/rpi-eeprom # 树莓派 4/5 的 bootloader 固件
   - DDoSolitary/LxRunOffline # 从自定义 rootfs 手动安装 WSL 的工具
   - ethereum/solidity # 以太坊 Solidity 智能合约编译器
   - ethereum/remix-project # 以太坊 Solidity IDE
