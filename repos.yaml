@@ -36,5 +36,6 @@ repos:
   - FreeCAD/FreeCAD
   - niXman/mingw-builds-binaries # 第三方 MinGW-w64 构建
   - CloverHackyColor/CloverBootloader # Clover
+  - Chuyu-Team/Dism-Multi-language # Windows 综合优化工具，非开源
   # 以下为山大相关仓库
   - SadPencil/sdunetd # 山大校园网登录守护程序，可部署在电脑和路由器
