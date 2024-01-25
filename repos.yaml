@@ -38,5 +38,6 @@ repos:
   - CloverHackyColor/CloverBootloader # Clover
   - Chuyu-Team/Dism-Multi-language # Windows 综合优化工具，非开源
   - snowie2000/mactype # Windows 字体渲染工具
+  - paintdotnet/release # 图像处理工具，非开源
   # 以下为山大相关仓库
   - SadPencil/sdunetd # 山大校园网登录守护程序，可部署在电脑和路由器
