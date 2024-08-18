@@ -43,5 +43,6 @@ repos:
   - NickeManarin/ScreenToGif # 开源的 GIF 动图录制工具
   - localsend/localsend # 跨平台的本地文件传输工具
   - Blinue/Magpie # Windows 窗口缩放工具
+  - mvdan/sh # Shell 脚本格式化/检查工具
   # 以下为山大相关仓库
   - SadPencil/sdunetd # 山大校园网登录守护程序，可部署在电脑和路由器
