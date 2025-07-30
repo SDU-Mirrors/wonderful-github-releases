@@ -17,7 +17,6 @@ repos:
   - zufuliu/notepad2 # 文本编辑工具 Notepad2 的 fork 的 fork
   - microsoft/PowerToys # 增强 Windows 生产力的小工具
   - PowerShell/PowerShell
-  - marktext/marktext # Markdown 编辑器
   - Molunerfinn/PicGo # 图床上传工具
   - caddyserver/caddy # HTTP 服务器
   - henrypp/memreduct # 针对 Windows 的内存清理工具
