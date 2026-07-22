@@ -48,5 +48,6 @@ repos:
   - STranslate/STranslate # 轻量级桌面划词翻译与文本翻译工具
   - microsoft/coreutils # coreutils 的 Windows 原生移植
   - vadimcn/codelldb # 为 VSCode / VSCodium 提供开箱即用的 LLDB 调试支持
+  - PowerShell/Win32-OpenSSH # 微软维护的 Windows 版 OpenSSH
   # 以下为山大相关仓库
   - SadPencil/sdunetd # 山大校园网登录守护程序，可部署在电脑和路由器
