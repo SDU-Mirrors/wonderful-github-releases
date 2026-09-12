@@ -5,7 +5,7 @@ repos:
   - rizonesoft/Notepad3 # 文本编辑工具
   - obsproject/obs-studio # 录屏、直播工具
   - pbatard/rufus # 可启动 U 盘镜像写入工具
-  - VSCodium/vscodium # VSCode 的一个“自由”许可证的发行版
+  # - VSCodium/vscodium # VSCode 的一个“自由”许可证的发行版
   - git-for-windows/git # Windows 端的 git 命令行
   - dbeaver/dbeaver # 数据库前端工具
   - agalwood/Motrix # 基于 aria2 的下载工具
